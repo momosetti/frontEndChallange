@@ -1,13 +1,13 @@
 # Lynx's Front End Fever
 
-Show us what you can do and how clean your code is! Write a JavaScript / Coffeescript app using AngularJS that will allow a user to search a repository by name and display a repository's relevant information such as URL, description, forks count, stargazers count, open issues count etc.
+Show us what you can do and how clean your code is! Write a JavaScript / TypeScript app using AngularJS (or any JS library you like) that will allow a user to search a repository by name and display a repository's relevant information such as URL, description, forks count, stargazers count, open issues count etc.
 
 Also, display the available issues of a repository in a separate section in the UI:
 
 - Implement the best design possible for the user interface - search and search results, and issues section.
-- You can use Twitter Bootstrap and any JavaScript libraries to support AngularJS (Underscore etc).
-- Use best practices in writing JavaScript / Coffeescript, CSS, and HTML.
-- Write clearly and use proper MVC structure to write the application.
+- You can use Twitter Bootstrap and any JavaScript libraries to support AngularJS (orany Javascript Library you prefer to use)
+- Use best practices in writing JavaScript / TypeScript, CSS, and HTML.
+- Write clearly and use a proper structure to write the application. (such as MVC structure)
 
 Bonus: Add another section for visualisation chart (using a JavaScript charting library that you already know) for the number of forks, open issues, stargazer count, watchers count, or any relevant information about the repository.
 
