@@ -29,7 +29,7 @@ By the way, if you find the Github API a tad too boring, pick something else you
 
 ### Submission notes
 
-You can just submit by, create a private repo for free on [Gitlab](https://www.gitlab.com/) or [Bitbucket](https://bitbucket.org/), or just send us the repo by email. Whatever you prefer.
+You can just submit by create a private repo for free on [Gitlab](https://www.gitlab.com/) or [Bitbucket](https://bitbucket.org/), or just send us the repo by email. Whatever you prefer.
 
 ---
 
